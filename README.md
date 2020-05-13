@@ -4,7 +4,7 @@ classic-iris
 This mini project is about the analysis on the classic Iris Dataset.
 
 
-* Achieved a 97% accuracy using a Logistic Regression model using with the parameters as follows:
+* Achieved a 97% accuracy using a Logistic Regression model with the following parameters:
  
  ```
 LogisticRegression(C=1.9, class_weight=None, dual=False, fit_intercept=True,
