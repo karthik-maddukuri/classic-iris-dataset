@@ -13,3 +13,16 @@ LogisticRegression(C=1.9, class_weight=None, dual=False, fit_intercept=True,
                    random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
                    warm_start=False)
 ```
+
+Project Organization
+------------
+
+    ├── data               <- Source data (csv).
+    │
+    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    │
+    ├── notebooks          <- Jupyter notebooks. 
+    │
+   
+
+--------
